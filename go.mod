@@ -1,4 +1,4 @@
-module github.com/omec-project/config5g
+module github.com/5GC-DEV/config5g-cdac
 
 go 1.23
 
